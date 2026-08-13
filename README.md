@@ -15,13 +15,6 @@ I currently work on **Paydo**, where I build and improve catalog flows, maps, fi
 
 Lately I’ve been exploring **Kotlin Multiplatform** and **Compose Multiplatform** through my own Android and iOS projects. I’m interested in the practical boundary between shared code and native platform work—not sharing code just for the sake of it.
 
-## What I’m building
-
-**Quran Hifz** is a Kotlin Multiplatform app for Quran memorization and revision, with daily plans, spaced repetition, audio, reminders, and progress tracking.
-
-**CleanSwipe** is an iOS photo-cleaning app built with Swift and PhotoKit for reviewing similar, duplicate, and blurry photos.
-
-Both are active work in progress. I’ll add public links when the repositories are ready for people other than me to understand and run.
 
 ## Core stack
 
