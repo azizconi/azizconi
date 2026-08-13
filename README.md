@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/azizjon_8"><img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&logo=telegram&logoColor=58A6FF" alt="Telegram" /></a>
-  <a href="mailto:azizjon.ibragimov@proton.me"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=protonmail&logoColor=A78BFA" alt="Email" /></a>
+  <a href="mailto:azizconi1@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 ## Hey, I’m Azizjon 👋
@@ -49,7 +49,7 @@ An iOS photo-cleaning app designed to make reviewing similar, duplicate, and blu
 
 I’m always happy to talk about mobile architecture, product ideas, or that strange bug that only happens on one device.
 
-[Telegram](https://t.me/azizjon_8) · [Email](mailto:azizjon.ibragimov@proton.me)
+[Telegram](https://t.me/azizjon_8) · [Email](mailto:azizconi1@gmail.com)
 
 ## Contribution trail
 
