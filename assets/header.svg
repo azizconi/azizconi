@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Azizjon Ibragimov — Mobile Engineer</title>
+  <desc id="description">A dark blue and violet developer banner with mobile interface motifs.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060B16" />
+      <stop offset="0.5" stop-color="#0B1220" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" />
+      <stop offset="0.5" stop-color="#6366F1" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0" />
+    </radialGradient>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="34" />
+    </filter>
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#020617" flood-opacity="0.72" />
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-opacity="0.07" stroke-width="1" />
+    </pattern>
+    <clipPath id="frameClip">
+      <rect x="0" y="0" width="1200" height="360" rx="28" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <circle cx="170" cy="70" r="170" fill="url(#glow)" filter="url(#blur)">
+      <animate attributeName="cx" values="170;260;170" dur="9s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1030" cy="300" r="210" fill="#8B5CF6" fill-opacity="0.15" filter="url(#blur)">
+      <animate attributeName="cy" values="300;220;300" dur="11s" repeatCount="indefinite" />
+    </circle>
+
+    <rect x="58" y="55" width="5" height="250" rx="2.5" fill="url(#accent)" />
+    <text x="92" y="132" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="750" letter-spacing="1.2">AZIZJON</text>
+    <text x="92" y="192" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="750" letter-spacing="1.2">IBRAGIMOV</text>
+    <text x="94" y="242" fill="#CBD5E1" font-family="JetBrains Mono,Consolas,monospace" font-size="22" letter-spacing="1.4">MOBILE ENGINEER</text>
+    <text x="94" y="281" fill="#64748B" font-family="JetBrains Mono,Consolas,monospace" font-size="16">Kotlin  /  Compose  /  KMP  /  Product thinking</text>
+
+    <g transform="translate(846 31)" filter="url(#softShadow)">
+      <rect x="0" y="0" width="214" height="300" rx="34" fill="#0F172A" stroke="#334155" stroke-width="2" />
+      <rect x="13" y="17" width="188" height="266" rx="24" fill="#070C18" />
+      <rect x="75" y="8" width="64" height="7" rx="3.5" fill="#334155" />
+      <circle cx="47" cy="66" r="18" fill="#1E293B" />
+      <path d="M40 66l5 5 10-12" fill="none" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <rect x="76" y="53" width="89" height="9" rx="4.5" fill="#E2E8F0" opacity="0.9" />
+      <rect x="76" y="70" width="61" height="7" rx="3.5" fill="#475569" />
+
+      <rect x="28" y="108" width="158" height="69" rx="16" fill="#111C31" stroke="#263552" />
+      <circle cx="53" cy="135" r="10" fill="#6366F1" />
+      <rect x="72" y="125" width="81" height="8" rx="4" fill="#CBD5E1" />
+      <rect x="72" y="142" width="54" height="6" rx="3" fill="#475569" />
+      <rect x="41" y="158" width="116" height="5" rx="2.5" fill="url(#accent)">
+        <animate attributeName="width" values="40;116;72;116" dur="5s" repeatCount="indefinite" />
+      </rect>
+
+      <rect x="28" y="192" width="74" height="61" rx="15" fill="#111C31" stroke="#263552" />
+      <rect x="112" y="192" width="74" height="61" rx="15" fill="#111C31" stroke="#263552" />
+      <path d="M48 227l12-12 10 9 13-18" fill="none" stroke="#38BDF8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M132 230v-21m12 21v-33m12 33v-14m12 14v-25" fill="none" stroke="#A78BFA" stroke-width="5" stroke-linecap="round" />
+    </g>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M782 111c-40 0-42 36-78 36" stroke="#38BDF8" stroke-opacity="0.48" stroke-width="2" stroke-dasharray="4 9">
+        <animate attributeName="stroke-dashoffset" values="0;-26" dur="2s" repeatCount="indefinite" />
+      </path>
+      <path d="M1098 194c35 0 44-33 74-33" stroke="#A78BFA" stroke-opacity="0.48" stroke-width="2" stroke-dasharray="4 9">
+        <animate attributeName="stroke-dashoffset" values="0;-26" dur="2.4s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <circle cx="784" cy="111" r="5" fill="#38BDF8">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1097" cy="194" r="5" fill="#A78BFA">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#334155" stroke-opacity="0.9" stroke-width="2" />
+</svg>
