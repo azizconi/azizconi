@@ -15,7 +15,7 @@ I enjoy the part of product work where a feature is still a little messy: requir
 
 ## Experience
 
-### Paydo · Mobile Engineer
+### Paydo · Android Developer
 
 I currently work on Paydo, a marketplace app. My day-to-day work includes catalog flows, maps, filters, pagination, reusable UI components, and performance improvements.
 
