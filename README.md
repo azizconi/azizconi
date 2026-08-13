@@ -17,15 +17,15 @@ I enjoy the part of product work where a feature is still a little messy: requir
 
 ### Paydo · Android Developer
 
-I currently work on Paydo, a marketplace app. My day-to-day work includes catalog flows, maps, filters, pagination, reusable UI components, and performance improvements.
+Android development at Paydo covers core marketplace flows: catalog browsing, filters, pagination, and map-based discovery. Each feature spans the full path from data and screen state to navigation, reusable UI components, and performance improvements.
 
-I usually work across UI, state, data, and product behavior rather than staying inside one isolated layer of the app.
+The role combines building new functionality with refining existing flows—keeping complex screens predictable, reducing duplicated UI logic, and improving responsiveness as features grow.
 
 ### MegaFon Life · Android Developer
 
-Before Paydo, I spent two years working on MegaFon Life. I was involved in VoIP, money transfers, video calls, and new services inside a super-app used by a large audience.
+At MegaFon Life, the Android scope covered communication and fintech features: VoIP and video calls, money transfers, and new service modules inside the super-app.
 
-That experience made reliability, performance, and real-world edge cases a much bigger part of how I approach mobile development.
+These were production flows for a large user base, where network conditions, permissions, interrupted scenarios, and state recovery had to be treated as normal cases rather than exceptions. Reliability and clear user feedback were central to the implementation.
 
 ## What I focus on
 
