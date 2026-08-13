@@ -9,52 +9,26 @@
 
 ## Hey, I’m Azizjon 👋
 
-I’m a mobile engineer from Dushanbe. Android has been my main platform for more than five years, but I enjoy looking beyond a single platform and thinking about the product as a whole.
+I build mobile apps, mostly for Android. I’ve been doing it for more than five years, and Kotlin is still the language I reach for first.
 
-I currently work on **Paydo**, a marketplace app where I build and improve catalog flows, maps, filters, pagination, reusable UI components, and app performance.
+I currently work on **Paydo**, where I build and improve catalog flows, maps, filters, pagination, reusable UI, and app performance. Before that, I spent two years working on **MegaFon Life**, including VoIP, money transfers, video calls, and new services inside a super-app.
 
-Before Paydo, I spent two years working on **MegaFon Life**. My work there included VoIP, money transfers, video calls, and new services inside a super-app used by a large audience.
+Lately I’ve been exploring **Kotlin Multiplatform** and **Compose Multiplatform** through my own Android and iOS projects. I’m interested in the practical boundary between shared code and native platform work—not sharing code just for the sake of it.
 
-Kotlin is still the language I enjoy working with the most. Recently, I’ve been using **Kotlin Multiplatform** and **Compose Multiplatform** in my own projects to understand what is genuinely worth sharing between Android and iOS.
+## What I’m building
 
-I like taking a feature from a rough idea to a working release, finding the slow or fragile parts of an app, and turning complicated requirements into simple mobile flows.
+**Quran Hifz** is a Kotlin Multiplatform app for Quran memorization and revision, with daily plans, spaced repetition, audio, reminders, and progress tracking.
 
-## What I’m working on
+**CleanSwipe** is an iOS photo-cleaning app built with Swift and PhotoKit for reviewing similar, duplicate, and blurry photos.
 
-### [Quran Hifz](https://github.com/azizconi/quran_todo_kmp)
+Both are active work in progress. I’ll add public links when the repositories are ready for people other than me to understand and run.
 
-A personal Kotlin Multiplatform project for Quran memorization and revision. It includes daily learning plans, spaced repetition, audio playback, reminders, progress tracking, and shared Compose UI for Android and iOS.
+## Core stack
 
-`Kotlin Multiplatform` `Compose Multiplatform` `Room` `Ktor` `Koin` `Decompose`
+`Kotlin` `Android` `Jetpack Compose` `Kotlin Multiplatform` `Compose Multiplatform` `Coroutines` `Flow` `Room` `Ktor`
 
-### CleanSwipe
-
-An iOS photo-cleaning app designed to make reviewing similar, duplicate, and blurry photos faster without making deletion feel risky.
-
-`iOS` `Swift` `PhotoKit` `Product development`
-
-## Tools I use
-
-**Mobile:** Kotlin, Android SDK, Jetpack Compose, Android Views, KMP, Compose Multiplatform
-
-**Architecture:** MVVM, MVI, Clean Architecture, multi-module architecture
-
-**Async and data:** Coroutines, Flow, Retrofit, OkHttp, Ktor, Room, DataStore
-
-**Dependency injection:** Hilt, Koin
-
-**Quality:** Firebase, Espresso, Kaspresso, performance profiling
+I also work with MVI/MVVM, modular architectures, Firebase, Hilt, Koin, performance profiling, and UI testing.
 
 ## Let’s connect
 
-I’m always happy to talk about mobile architecture, product ideas, or that strange bug that only happens on one device.
-
-[Telegram](https://t.me/azizjon_8) · [Email](mailto:azizconi1@gmail.com)
-
-## Contribution trail
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizconi/azizconi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizconi/azizconi/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/azizconi/azizconi/output/github-contribution-grid-snake.svg" />
-</picture>
+If you want to talk about mobile architecture, product ideas, or a bug that only happens on one device: [Telegram](https://t.me/azizjon_8) · [Email](mailto:azizconi1@gmail.com)
