@@ -34,10 +34,8 @@
     <rect width="1200" height="360" fill="url(#background)" />
     <rect width="1200" height="360" fill="url(#grid)" />
     <circle cx="170" cy="70" r="170" fill="url(#glow)" filter="url(#blur)">
-      <animate attributeName="cx" values="170;260;170" dur="9s" repeatCount="indefinite" />
     </circle>
     <circle cx="1030" cy="300" r="210" fill="#8B5CF6" fill-opacity="0.15" filter="url(#blur)">
-      <animate attributeName="cy" values="300;220;300" dur="11s" repeatCount="indefinite" />
     </circle>
 
     <rect x="58" y="55" width="5" height="250" rx="2.5" fill="url(#accent)" />
@@ -60,7 +58,6 @@
       <rect x="72" y="125" width="81" height="8" rx="4" fill="#CBD5E1" />
       <rect x="72" y="142" width="54" height="6" rx="3" fill="#475569" />
       <rect x="41" y="158" width="116" height="5" rx="2.5" fill="url(#accent)">
-        <animate attributeName="width" values="40;116;72;116" dur="5s" repeatCount="indefinite" />
       </rect>
 
       <rect x="28" y="192" width="74" height="61" rx="15" fill="#111C31" stroke="#263552" />
@@ -71,17 +68,13 @@
 
     <g fill="none" stroke-linecap="round">
       <path d="M782 111c-40 0-42 36-78 36" stroke="#38BDF8" stroke-opacity="0.48" stroke-width="2" stroke-dasharray="4 9">
-        <animate attributeName="stroke-dashoffset" values="0;-26" dur="2s" repeatCount="indefinite" />
       </path>
       <path d="M1098 194c35 0 44-33 74-33" stroke="#A78BFA" stroke-opacity="0.48" stroke-width="2" stroke-dasharray="4 9">
-        <animate attributeName="stroke-dashoffset" values="0;-26" dur="2.4s" repeatCount="indefinite" />
       </path>
     </g>
     <circle cx="784" cy="111" r="5" fill="#38BDF8">
-      <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite" />
     </circle>
     <circle cx="1097" cy="194" r="5" fill="#A78BFA">
-      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite" />
     </circle>
   </g>
   <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#334155" stroke-opacity="0.9" stroke-width="2" />
